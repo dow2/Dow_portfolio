@@ -23,8 +23,11 @@ const SocialMedia = () => {
         </a>
       </div>
       <div>
-        <a href='mailto:dowedwards@dow2tech.com' target='_blank'
-        rel='noopener noreferrer'>
+        <a
+          href='mailto:dowedwards@dow2tech.com'
+          target='_blank'
+          rel='noopener noreferrer'
+        >
           <BsMailbox2 />
         </a>
       </div>
