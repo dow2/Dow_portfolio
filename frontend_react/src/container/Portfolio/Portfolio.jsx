@@ -43,7 +43,7 @@ const Portfolio = () => {
       </h2>
 
       <div className='app__work-filter'>
-        {['React', 'UI/UX', 'Frontend', 'Fullstack', 'All'].map(
+        {['React', 'UI/UX', 'Typescript', 'Fullstack', 'All'].map(
           (item, index) => (
             <div
               key={index}

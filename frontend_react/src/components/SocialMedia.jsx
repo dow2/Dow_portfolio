@@ -24,7 +24,7 @@ const SocialMedia = () => {
       </div>
       <div>
         <a
-          href='mailto:dowedwards@dow2tech.com'
+          href='https://docs.google.com/document/d/1zfxKAKswLM62zjBXFFl7DhtGucCy1xu46fogGJfT0iI/edit?usp=sharing'
           target='_blank'
           rel='noopener noreferrer'
         >
